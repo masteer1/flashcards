@@ -1,0 +1,23 @@
+{
+  "decks": [
+    {
+      "id": 1,
+      "name": "General",
+      "emoji": "📚"
+    },
+    {
+      "id": 1779759855241,
+      "name": "microbio",
+      "emoji": "📚"
+    }
+  ],
+  "cards": [
+    {
+      "id": 1779759855241,
+      "front": "test",
+      "back": "idk im just testing",
+      "deckId": 1779759855241
+    }
+  ],
+  "exportedAt": "2026-05-26T01:44:44.708Z"
+}
